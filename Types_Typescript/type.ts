@@ -12,3 +12,4 @@ function Name(name: { firstname: string; lastname?:string}){
 
 Name({ firstname: "Ahzaz", lastname: "Ahmed" });
 
+
